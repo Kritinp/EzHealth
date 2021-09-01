@@ -1,2 +1,0 @@
-# EzHealth
-Zense Project
